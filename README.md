@@ -1,4 +1,4 @@
 # WinTux
 To install, put this in Terminal
-`javac MyProgram.java`
+```javac MyProgram.java```
 `java MyProgram`
